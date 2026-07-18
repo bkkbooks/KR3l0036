@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR3l0036_000-WYG.yaml, hash: 'sha256:55d0e66233b017c5584e4a678d34dfd0c419a8ca8a0e7b5073c3452698e10859'}
   - {seq: 1, filename: KR3l0036_001-WYG.yaml, hash: 'sha256:354f959a02b3514871408d27370f14b3b93a1ccdb842bd1dba206b87c98fd118'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0036_000-WYG.markers.yaml, hash: 'sha256:534ebbba219081df31fc6a722cdb4bf9ac13663eedad5872fe25fcae4dad835b'}
+  - {seq: 0, role: markers, filename: assets/KR3l0036_000-WYG.markers.yaml, hash: 'sha256:fd4a256cfeeda7b4692007edb578666f3edf85852687a9c093972de4df89528a'}
   - {seq: 1, role: markers, filename: assets/KR3l0036_001-WYG.markers.yaml, hash: 'sha256:04b6f388119fd3b6400ac62cedb9e729afc46e3ce4ab7a497e299c3a4f03e1f8'}
 table_of_contents:
 - ref:
@@ -53,4 +53,4 @@ table_of_contents:
   label: 錢氏私志
   type: section
   level: 1
-hash: sha256:455de686c71a1e8f8e7638649fd3bfcf16d7788bab33131d306aa5583af296a0
+hash: sha256:eef8f7ffa58008730d5562d9b005d4478187f08a2ef3dd647a4c486e8f3343a3
